@@ -1,0 +1,1 @@
+export const url = 'https://ejerciciosimulador.herokuapp.com/ropa/'
